@@ -13,6 +13,10 @@ O GeoRiverMesh é uma ferramenta computacional desenvolvida para auxiliar na con
 
 A ferramenta permite trabalhar com dados georreferenciados, construir margens e ilhas, utilizar recursos de marcação manual e assistida e preparar a geometria do domínio para geração de malhas no Gmsh.
 
+<p align="center">
+  <img src="georivermesh_tela.png" alt="Interface do GeoRiverMesh Desktop" width="1000">
+</p>
+
 ## Principais funcionalidades
 
 - Visualização por mapa e imagem de satélite
