@@ -1,6 +1,10 @@
 
 # GeoRiverMesh
 
+<p align="center">
+  <img src="georivermesh_logo.png" alt="Logo GeoRiverMesh" width="180">
+</p>
+
 **Ferramenta para construção de domínios fluviais, georreferenciamento e preparação de geometrias para malhas numéricas.**
 
 ## Sobre
